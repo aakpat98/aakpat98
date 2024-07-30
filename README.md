@@ -2,10 +2,6 @@
 
 I'm Aakash Patil, a Data Analyst and Consultant with a passion for turning complex data into strategic insights that drive innovation and success. My journey in the world of data science and business analytics has been exciting and rewarding, and I'm thrilled to share my skills and experiences with you!
 
----
-
-### About Me
-
 With a Master of Science in Business Analytics from the University of Minnesota and a Bachelor of Technology from the Manipal Institute of Technology, I have a solid foundation in both the technical and business aspects of data science.
 
 ---
@@ -47,9 +43,7 @@ I'm always excited to collaborate on new projects, share ideas, and learn from o
 📫 **How to Reach Me:**
 - [LinkedIn](https://www.linkedin.com/in/aakpat/)
 - [Email](mailto:patil224@umn.edu)
-
 ---
-
 **Fun Quote:** "In God we trust, all others must bring data." – W. Edwards Deming
 
 Thanks for stopping by! Let's turn data into actionable insights together! 🚀
