@@ -9,16 +9,7 @@ With a Master of Science in Business Analytics from the University of Minnesota 
 
 🔍 **Data Detective:** I love solving complex problems with data. From data analysis to predictive modeling, I enjoy digging into datasets and uncovering actionable insights. I am actively pursuing a career in Data Science, having worked on numerous projects and earned certifications in various data science tools and frameworks. My hands-on experience spans multiple projects where I have applied data science techniques to solve real-world problems.
 
-💼 **Solutions Consultant:** My role at G2 involved generating over $9 million in revenue by creating more than 300 customer-ready data value assessments. My data-driven strategies also realized an 80% organic growth in the marketing pipeline at Mercer | Mettl.
-
----
-### Technical Skills
-- **Programming:** Python, R
-- **Databases:** SQL, NoSQL, Snowflake, Elasticsearch
-- **Data Visualization:** Tableau, Looker
-- **Business Intelligence:** Google Analytics, Jupyter Notebooks, Salesforce
-- **Machine Learning & NLP:** Web Scraping, Predictive Modeling
-- **Statistics:** Regression Analysis, Multilevel and Marginal Modeling, Hypothesis Testing, Confidence Intervals
+💼 **Strategist and Solutions Consultant:** My role at G2 involved generating over $9 million in revenue by creating more than 300 customer-ready data value assessments. My data-driven strategies also realized an 80% organic growth in the marketing pipeline at Mercer | Mettl.
 
 ---
 ### Let's Connect!
