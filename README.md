@@ -1,6 +1,6 @@
 ### Hi there! 👋 Welcome to my GitHub profile!
 
-I'm Aakash Patil, a Data Analyst and Consultant with a passion for turning complex data into strategic insights that drive innovation and success. My journey in the world of data science and business analytics has been exciting and rewarding, and I'm thrilled to share my skills and experiences with you!
+I'm Aakash Patil, a Data Consultant and Analyst with a passion for turning complex data into strategic insights that drive innovation and success. My journey in the world of data science and business analytics has been exciting and rewarding, and I'm thrilled to share my skills and experiences with you!
 
 With a Master of Science in Business Analytics from the University of Minnesota and a Bachelor of Technology from the Manipal Institute of Technology, I have a solid foundation in both the technical and business aspects of data science.
 
