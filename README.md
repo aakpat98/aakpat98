@@ -1,4 +1,4 @@
-## Hi there!
+## Hi There! 👋 
 
 I'm **Aakash Patil**, a Data Scientist and Technical Consultant with experience in predictive modeling, experimentation, and data-driven strategy.
 
